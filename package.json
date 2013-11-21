@@ -1,0 +1,35 @@
+{
+  "name": "browsolr",
+  "version": "0.0.1",
+  "description": "Amplify + Multiple Solr Core Managers Functional Prototype +? Backbone",
+  "main": "index.html",
+  "dependencies": {
+    "browserify": "~2.35.4",
+    "console-browserify": "~1.0.1",
+    "http-browserify": "~0.2.1",
+    "solr-node-client": "git+https://github.com/eugenehp/solr-node-client.git#master"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eugenehp/browsolr.git"
+  },
+  "keywords": [
+    "solr",
+    "browserify"
+  ],
+  "author": { 
+    "name" : "Eugene HP"
+  , "url" : "http://eugenehp.tk/"
+  },
+  "license":{ 
+    "type" : "3-clause BSD"
+    , "url" : "https://github.com/eugenehp/browsolr/blob/master/LICENSE"
+  },
+  "bugs": {
+    "url": "https://github.com/eugenehp/browsolr/issues"
+  }
+}
