@@ -1,6 +1,6 @@
 BROWSOLR
 =========
-Amplify + Multiple Solr Core Managers Functional Prototype +? Backbone
+Multiple Solr Core Managers Functional Prototype
 
 Requirements
 -------
