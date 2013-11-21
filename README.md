@@ -32,4 +32,5 @@ browsolr is released under the 3-clause BSD
 Thanks
 -------
 [http://lbdremy.github.io/solr-node-client/](Solr-node-client) used as a core.
+
 [http://browserify.org/](Browserify) used to make node.js libraries available in browser.
