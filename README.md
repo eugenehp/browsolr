@@ -15,7 +15,7 @@ Please consult to `browsolr/node_modules/solr-client/lib/*.js` files.
 
 Usage
 -------
-[http://www.youtube.com/watch?v=-5Nbppl_D_g](Screencast)
+[http://www.youtube.com/watch?v=-5Nbppl_D_g](http://www.youtube.com/watch?v=-5Nbppl_D_g)
 
 Use `make` command to install and run everything. For more details consult to `Makefile`.
 
